@@ -1,7 +1,9 @@
-h1{
-    color:red:
-}
+
 body{
     background:black;
+<<<<<<< HEAD
     color:blue;
+=======
+    color:white;
+>>>>>>> parent of e93a8c2 (Revert "ad table")
 }
